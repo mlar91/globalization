@@ -9,7 +9,7 @@ ms.date: 5/24/2023
 
 ## Terminology
 
-[Microsoft Terminology]([./terminology.md](https://msit.powerbi.com/view?r=eyJrIjoiYjM4MzYyNGQtNjU1MS00ZWE2LTlkY2YtNzllYWVmMWRkMDc4IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)) can be used to develop localized versions of applications that integrate with Microsoft products. It can also be used to integrate Microsoft terminology into other terminology collections or serve as a base IT glossary for language development in the nearly 100 languages available. Terminology is provided in .tbx format, an industry standard for terminology exchange.
+[Microsoft Terminology](https://msit.powerbi.com/view?r=eyJrIjoiYjM4MzYyNGQtNjU1MS00ZWE2LTlkY2YtNzllYWVmMWRkMDc4IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) can be used to develop localized versions of applications that integrate with Microsoft products. It can also be used to integrate Microsoft terminology into other terminology collections or serve as a base IT glossary for language development in the nearly 100 languages available. Terminology is provided in .tbx format, an industry standard for terminology exchange.
 
 ## Localization Style Guides
 
