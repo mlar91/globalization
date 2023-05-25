@@ -5,11 +5,11 @@ author: jowilco
 ms.date: 5/24/2023
 ---
 
-# Language portal replacement
+# Microsoft Language portal
 
 ## Terminology
 
-[Microsoft Terminology](https://msit.powerbi.com/view?r=eyJrIjoiYjM4MzYyNGQtNjU1MS00ZWE2LTlkY2YtNzllYWVmMWRkMDc4IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) can be used to develop localized versions of applications that integrate with Microsoft products. It can also be used to integrate Microsoft terminology into other terminology collections or serve as a base IT glossary for language development in the nearly 100 languages available. Terminology is provided in .tbx format, an industry standard for terminology exchange.
+Microsoft Terminology can be used to develop localized versions of applications that integrate with Microsoft products. It can also be used to integrate Microsoft terminology into other terminology collections or serve as a base IT glossary for language development in the nearly 100 languages available. You can query the Microsoft Terminology Collection via the new <a href="https://msit.powerbi.com/view?r=eyJrIjoiYjM4MzYyNGQtNjU1MS00ZWE2LTlkY2YtNzllYWVmMWRkMDc4IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9" target="_blank">Microsoft Terminology Search</a> page.
 
 ## Localization Style Guides
 
