@@ -53,7 +53,7 @@ Also, numbers in some locales might not correspond directly to there digits (0-9
 | Hebrew                            | <span lang="he"> א ,ב ,ג, ד, ה, ו, ז, ח ,ט…</span> |
 | Korean                            | <span lang="ko">일 이 삼 사 오 육 칠 팔 구…</span> |
 | Korean                            | <span lang="ko">하나 둘 셋 넷 다섯 여섯 일곱 여덟 아홉…</span>. |
-| Bengla                            | <span lang="bn">০ ১ ২ ৩ ৪ ৫ ৬ ৭ ৮ ৯</span> |
+| Bangla                            | <span lang="bn">০ ১ ২ ৩ ৪ ৫ ৬ ৭ ৮ ৯</span> |
 | Devanagari<br>(script used to write Hindi,Marathi, and other languages)| <span lang="hi">० १ २ ३ ४ ५ ६ ७ ८ ९</span> |
 | Gujarati                          | <span lang="gu">૦ ૧ ૨ ૩ ૪ ૫ ૬ ૭ ૮ ૯</span> |
 | Gurmukhi<br>(one of the scripts used to write Punjabi) | <span lang="pa">੦ ੧ ੨ ੩ ੪ ੫ ੬ ੭ ੮ ੯ </span>|
